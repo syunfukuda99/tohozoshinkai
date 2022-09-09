@@ -1,0 +1,209 @@
+0:システムの情報を出力します
+0:	ＤＸライブラリ Ver3.10a
+0:	論理プロセッサの数 : 8
+1:	ＯＳ  Windows ( Build 9200  )
+101:	ＣＰＵ動作速度：大体1.17GHz
+101:	ＭＭＸ命令を使用します
+101:	ＳＳＥ命令が使用可能です
+101:	ＳＳＥ２命令が使用可能です
+103:	ＣＰＵベンダ：GenuineIntel
+104:	ＣＰＵ名：Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+104:ＣＯＭの初期化... 成功しました
+104:メモリ総量:2048.00MB  空きメモリ領域:1626.76MB 
+106:タイマーの精度を検査します
+106:精度結果 更新回数 マルチメディアタイマー：0  パフォーマンスカウンター：60
+106: パフォーマンスカウンターを使用します タイマー精度 : 10000.000000 KHz 
+107: ソフトの二重起動検査... 二重起動はされていませんでした
+107:ウインドウクラスを登録します... 登録に成功しました
+109:ウインドウモード起動用のウインドウを作成します
+114:ウインドウの作成に成功しました
+114:ウインドウを表示します
+195:ＩＭＥを無効にしました
+207:ウインドウスタイルをウインドウモード用に変更します... 完了
+228:DirectInput関係初期化処理
+228:	XInput DLL の読み込み中... 成功
+229:	DirectInput7 の取得中... 成功
+243:		引き続き初期化処理... 初期化成功
+244:	ジョイパッドの初期化... 
+253:	ジョイパッドの初期化は正常に終了しました
+255:	マウスデバイスの初期化... 初期化成功
+255:	キーボードデバイスの初期化... 初期化成功
+257:DirectInput 関連の初期化は正常に終了しました
+257:DirectSound の初期化を行います
+258:DirectSound インターフェースの取得を行います....  成功
+260:引き続きインターフェースの初期化処理...  成功
+1334:	DirectSound デバイスを列挙します
+1335:		モジュール名:                 ドライバ記述:プライマリ サウンド ドライバー 
+1335:		モジュール名:{0.0.0.00000000}.{92c9cdb6-e134-496b-9d61-7d3875d57638}  ドライバ記述:Speaker (Realtek(R) Audio) 
+1335:		モジュール名:{0.0.0.00000000}.{0d4392e5-f23b-4298-9bd5-6f9eac406224}  ドライバ記述:ライン (Yamaha SYNCROOM Driver (WDM)) 
+1335:	最大サンプリングレート:200.00KHz 最小サンプリングレート:0.10KHz 
+1336:	総サウンドメモリ領域:0.00KB 空きサウンドメモリ領域:0.00KB 
+
+1336:	利用可能サンプリング精度
+1336:	 プライマリ １６bit = OK  ８bit = OK 
+1336:	 セカンダリ １６bit = OK  ８bit = OK 
+
+1337:	利用可能チャンネル
+1337:	 プライマリ MONO = OK  STEREO = OK 
+1337:	 セカンダリ MONO = OK  STEREO = OK 
+
+1337:DirectSound の初期化は正常に終了しました
+1341:DirectDraw オブジェクトの取得を行います....  成功
+1344:引き続き初期化処理... 初期化に成功しました
+1371:IDirect3D9Ex オブジェクトを取得します.... 成功
+1375:IDirect3DDevice9Ex オブジェクトを取得します.... ハードウエア頂点演算を使用します
+1631:成功
+1632:Driver:igdumdim32.dll  Description:Intel(R) UHD Graphics
+1632:画面のフォーマットは D3DFMT_X8R8G8B8 です
+1632:Ｚバッファのフォーマットは D3DFMT_D16 です
+1632:16bit カラーフォーマットは D3DFMT_R5G6B5 です
+1633:32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+1634:アルファ付き 16bit カラーフォーマットは D3DFMT_A4R4G4B4 です
+1634:アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+1634:アルファテスト用 16bit カラーフォーマットは D3DFMT_A1R5G5B5 です
+1634:アルファテスト用 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+1634:ＤＸＴ１テクスチャフォーマットはD3DFMT_DXT1 です
+1634:ＤＸＴ２テクスチャフォーマットはD3DFMT_DXT2 です
+1635:ＤＸＴ３テクスチャフォーマットはD3DFMT_DXT3 です
+1635:ＤＸＴ４テクスチャフォーマットはD3DFMT_DXT4 です
+1635:ＤＸＴ５テクスチャフォーマットはD3DFMT_DXT5 です
+1635:描画用 16bit カラーフォーマットは D3DFMT_R5G6B5 です
+1635:描画用 32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+1636:描画用アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+1636:描画用ABGR整数16ビット型カラーフォーマットは D3DFMT_A16B16G16R16 です
+1636:描画用ABGR浮動小数点16ビット型カラーフォーマットは D3DFMT_A16B16G16R16F です
+1636:描画用ABGR浮動小数点32ビット型カラーフォーマットは D3DFMT_A32B32G32R32F です
+1636:描画用１チャンネル整数8ビット型カラーフォーマットは D3DFMT_L8 です
+1636:描画用１チャンネル整数16ビット型カラーフォーマットは D3DFMT_L16 です
+1637:描画用１チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_R16F です
+1637:描画用１チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_R32F です
+1637:描画用２チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8B8G8R8 です
+1637:描画用２チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+1638:描画用２チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_G16R16F です
+1638:描画用２チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_G32R32F です
+1638:一度に描画できるプリミティブの最大数:8388607
+1638:対応している最大頂点インデックス:16777215
+1638:同時にレンダリングできるバッファの数:4
+1639:最大テクスチャサイズ　幅:8192 高さ:8192
+1639:テクスチャステージテンポラリレジスタ：使用可
+1639:減算合成のハードウェア対応：ネイティブ
+1640:ハードウェア頂点シェーダーバージョンコード：300
+1640:エミュレーション頂点シェーダーバージョンコード：エミュレーション無し
+1640:ピクセルシェーダーバージョンコード：300
+1650:バックバッファロック転送の時間:538nsec  一時的な描画可能バッファを使用した転送の時間:1946nsec
+1651:バックバッファロックを使用します
+1651:Ｚバッファを作成します.... 成功
+1951:プログラマブルシェーダーを使用します
+
+1979:フォントの初期化を行います
+1981:フォントの初期化は正常に終了しました
+1991:文字コードバッファの初期化を行います... 完了しました
+3757:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\000.png がありません
+3761:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\003.png がありません
+3761:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\004.png がありません
+3761:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\005.png がありません
+3762:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\006.png がありません
+3762:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\007.png がありません
+3763:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\008.png がありません
+3763:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\009.png がありません
+3764:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\010.png がありません
+3764:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\011.png がありません
+3765:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\012.png がありません
+3766:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\013.png がありません
+3766:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\014.png がありません
+3766:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\015.png がありません
+3767:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\016.png がありません
+3767:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\017.png がありません
+3768:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\018.png がありません
+3768:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\019.png がありません
+3769:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\020.png がありません
+3769:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\021.png がありません
+3770:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\022.png がありません
+3770:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\023.png がありません
+3771:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\024.png がありません
+3771:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\025.png がありません
+3772:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\026.png がありません
+3772:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\027.png がありません
+3773:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\028.png がありません
+3773:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\029.png がありません
+3774:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\030.png がありません
+3774:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\031.png がありません
+3775:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\032.png がありません
+3775:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\033.png がありません
+3776:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\034.png がありません
+3776:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\035.png がありません
+3777:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\036.png がありません
+3777:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\037.png がありません
+3777:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\038.png がありません
+3778:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\039.png がありません
+3778:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\040.png がありません
+3779:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\041.png がありません
+3779:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\042.png がありません
+3780:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\043.png がありません
+3780:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\044.png がありません
+3781:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\045.png がありません
+3781:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\046.png がありません
+3782:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\047.png がありません
+3782:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\048.png がありません
+3783:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\049.png がありません
+3783:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\050.png がありません
+3784:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\051.png がありません
+3784:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\052.png がありません
+3785:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\053.png がありません
+3785:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\054.png がありません
+3786:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\055.png がありません
+3786:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\056.png がありません
+3787:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\057.png がありません
+3787:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\058.png がありません
+3788:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\059.png がありません
+3788:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\060.png がありません
+3789:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\061.png がありません
+3789:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\062.png がありません
+3789:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\063.png がありません
+3790:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\064.png がありません
+3790:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\065.png がありません
+3791:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\066.png がありません
+3791:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\067.png がありません
+3792:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\068.png がありません
+3792:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\069.png がありません
+3793:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\070.png がありません
+3793:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\071.png がありません
+3793:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\072.png がありません
+3794:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\073.png がありません
+3794:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\074.png がありません
+3795:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\075.png がありません
+3795:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\076.png がありません
+3796:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\077.png がありません
+3797:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\078.png がありません
+3798:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\079.png がありません
+3798:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\080.png がありません
+3799:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\081.png がありません
+3799:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\082.png がありません
+3800:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\083.png がありません
+3800:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\084.png がありません
+3801:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\085.png がありません
+3801:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\086.png がありません
+3802:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\087.png がありません
+3802:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\088.png がありません
+3802:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\089.png がありません
+3803:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\090.png がありません
+3804:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\091.png がありません
+3804:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\092.png がありません
+3804:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\093.png がありません
+3805:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\094.png がありません
+3805:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\095.png がありません
+3806:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\096.png がありません
+3806:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\097.png がありません
+3806:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\098.png がありません
+3807:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\099.png がありません
+3808:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\100.png がありません
+3808:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\101.png がありません
+3809:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\102.png がありません
+3809:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\103.png がありません
+3810:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\list\999.png がありません
+3843:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\3,4\statusy\019.png がありません
+4074:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\5\shot\shota\0.png がありません
+4075:画像ファイル C:\Users\syunf\OneDrive\デスクトップ\newgame4 remake2\graph\5\shot\shota\1.png がありません
+12382:ウインドウを閉じようとしています
+12404:ウインドウが破棄されようとしています
+12405:ソフトを終了する準備が整いました
